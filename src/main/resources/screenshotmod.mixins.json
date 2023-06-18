@@ -1,0 +1,9 @@
+{
+  "package": "me.chetan.screenshotmod.mixins",
+  "refmap": "screenshotmod.mixins.refmap.json",
+  "minVersion": "0.7.11",
+  "compatibilityLevel": "JAVA_8",
+  "client": [
+    "ScreenShotHelperMixin_SaveCords"
+  ]
+}
